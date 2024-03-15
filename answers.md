@@ -1,5 +1,5 @@
 ## Lab 7 :
-Part 1 - Basic Calculator : 
+#Part 1 - Basic Calculator : 
 1) Draw the CFG graph for onClick()<img width="1161" alt="Screenshot 2024-03-08 at 3 58 59 PM" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-eo2000/assets/116772744/b6b0dc30-4eff-4f4a-afd2-de99e48ed5c2">
 
 2)  Compute node coverage for this CFG
@@ -19,19 +19,7 @@ Part 1 - Basic Calculator :
    ![IMG_3417](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-eo2000/assets/116772744/c312c31e-5de3-4ad0-9897-2920376c0760)
 
 
-Part 2 - Project App : 
-1) Draw the CFG graph for onCreate()
-   
-<img width="1426" alt="Screenshot 2024-03-15 at 3 37 20 PM" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-L3CH3R0/assets/91989855/d6f27523-79b5-411c-81ba-43986f76f120">
+#Part 2 - Project App : 
+1) Draw the CFG graph for 
 
 2) Compute node coverage for this CFG
-  - TR : [1], [2], [3], [4], [5], [6]
-  - Test paths : [1,2,3,4,5,6]
-4) Compute edge coverage for this CFG
-  - TR : [1,2], [2,3], [3,4], [4,5], [5,6]
-  - Test paths : [1,2,3,4,5,6]
-
-5) Compute edge-pair coverage for this CFG
-  - TR :
-  - Test paths :
-6) Draw the EFG graph:
