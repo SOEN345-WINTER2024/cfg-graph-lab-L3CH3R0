@@ -50,6 +50,6 @@
    Test Path:[1,2,3,5],[1,2,3,4],[1,2,6,7,8],[1,2,6,9,10]
 5) Compute edge-pair coverage for this CFG
    TR: [1,2,3],[2,3,5],[2,3,4],[1,2,6],[6,7,8],[6,9,1]
-   Test Path:
+   Test Path:[1,2,3,5],[1,2,3,4],[1,2,6,7,8],[1,2,6,9,10]
 6) Draw the EFG graph for this method
 ![Screen Shot 2024-03-15 at 4 25 24 PM](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-L3CH3R0/assets/91989855/c40e43d5-6346-44ad-afb2-30154f1e561e)
