@@ -19,7 +19,9 @@
    ![IMG_3417](https://github.com/SOEN345-WINTER2024/cfg-graph-lab-eo2000/assets/116772744/c312c31e-5de3-4ad0-9897-2920376c0760)
 
 
-#Part 2 - Project App : 
-1) Draw the CFG graph for 
+#Part 2 - Project App :
 
-2) Compute node coverage for this CFG
+1) Draw the CFG graph for
+<img width="553" alt="Screenshot 2024-03-21 at 1 39 41 PM" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-L3CH3R0/assets/91989855/a3b32bf8-2b90-4ab8-af9e-5f0bf0613b2e">
+
+3) Compute node coverage for this CFG
